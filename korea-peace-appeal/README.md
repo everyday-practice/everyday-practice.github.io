@@ -1,5 +1,21 @@
 # 설명
 
+## Update (2020-08-01)
+
+- 마크업 텍스트 스타일을 정의했습니다.
+  - `.heading`
+    - 제목 (h2에 적용)
+  - `.subheading`
+    - 부제 (h3에 적용)
+    - 하위 텍스트가 없더라도 margin-top이 필요할때 써도 될듯 합니다.
+  - `.underlined`, `.underlined--*`
+    - 부제를 위한 밑줄 클래스
+    - 밑줄 구현방식 때문에 부제 안에 `<span>` 추가 생성 필수
+  - `.paragraph`
+    - 일반 텍스트
+  - `.paragraph--small`
+    - 작은 텍스트
+  
 ## 1. HTML & JS
 
 - 총 4개의 html 파일이 있습니다.
