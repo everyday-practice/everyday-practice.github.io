@@ -1,4 +1,6 @@
-# 설명
+# Static Site Demo
+
+everyday-practice.github.io/korea-peace-appeal
 
 ## Update (2020-08-01)
 
